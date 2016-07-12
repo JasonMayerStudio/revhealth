@@ -1,0 +1,27 @@
+{
+  "name": "euraxrx",
+  "version": "1.0.0",
+  "description": "Web site",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": ""
+  },
+  "author": ["Jeremy Korb <jkorb@jeremykorb.com>"],
+  "licenses": [{"type": "Closed Source"}],
+  "bugs": {
+    "url": "https://github.com/..."
+  },
+  "private": true,
+  "homepage": "n/a",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "latest",
+    "less-plugin-autoprefix": "latest"
+  }
+}
